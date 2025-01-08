@@ -28,5 +28,6 @@ El proyecto se centró en desarrollar un modelo de aprendizaje automático para 
 - Transformamos las reseñas en vectores TF-IDF para facilitar su procesamiento para los modelos de aprendizaje automatico
 - Se entrenaron y compararon varios modelos
 - Realizamos una funcion de evaluacion con algunas métricas y las pudimos visualizar
+## Evaluación
 El proyecto logró sus objetivos principales al desarrollar un modelo robusto para la detección automática de críticas negativas en reseñas de películas. La combinación de técnicas avanzadas de preprocesamiento de texto, modelos de aprendizaje automático optimizados y una cuidadosa evaluación del rendimiento permitió alcanzar **un valor F1 mayor al 0.85.**, en nuestro **Modelo_2 y Modelo_3 un valor F1 de 0.88, en nuestro Modelo_4 un valor F1 de 0.86** de nuestros conjuntos de prueba. Este éxito demuestra el potencial de las técnicas de aprendizaje automático para mejorar la comprensión y gestión de la retroalimentación del cliente en diferentes reseñas de texto como en los ejemplos finales donde podemos medir la probabilidad de ser negativas.
 
